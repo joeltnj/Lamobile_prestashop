@@ -1,0 +1,247 @@
+10/04/2023 23:41:31 Starting restoration
+10/04/2023 23:41:31 Shop url: https://lamobile.fr/restore.php
+10/04/2023 23:41:31 Database Host server: db5006928919.hosting-data.io
+10/04/2023 23:41:31 Database Port: 
+10/04/2023 23:41:31 Database name: dbs5720266
+10/04/2023 23:41:31 Database User: dbu1994086
+10/04/2023 23:41:31 Duration of intermediate renewal: 25
+10/04/2023 23:41:31 Duration between refresh: 0
+10/04/2023 23:41:31 Duration between progress refresh: 1
+10/04/2023 23:41:31 Cleaning files before restoration...
+10/04/2023 23:41:31 Restoring backup...
+10/04/2023 23:41:31 Restoring files...
+10/04/2023 23:41:31 Restoring files: 2%
+10/04/2023 23:41:32 Restoring files: 7%
+10/04/2023 23:41:32 Restoring files: 8%
+10/04/2023 23:41:32 Restoring files: 9%
+10/04/2023 23:41:32 Restoring files: 10%
+10/04/2023 23:41:32 Restoring files: 11%
+10/04/2023 23:41:33 Restoring files: 12%
+10/04/2023 23:41:33 Restoring files: 13%
+10/04/2023 23:41:33 Restoring files: 14%
+10/04/2023 23:41:33 Restoring files: 15%
+10/04/2023 23:41:34 Restoring files: 16%
+10/04/2023 23:41:34 Restoring files: 17%
+10/04/2023 23:41:34 Restoring files: 18%
+10/04/2023 23:41:34 Restoring files: 19%
+10/04/2023 23:41:35 Restoring files: 20%
+10/04/2023 23:41:35 Restoring files: 21%
+10/04/2023 23:41:35 Restoring files: 22%
+10/04/2023 23:41:35 Restoring files: 23%
+10/04/2023 23:41:35 Restoring files: 24%
+10/04/2023 23:41:36 Restoring files: 25%
+10/04/2023 23:41:36 Restoring files: 26%
+10/04/2023 23:41:36 Restoring files: 27%
+10/04/2023 23:41:36 Restoring files: 28%
+10/04/2023 23:41:36 Restoring files: 29%
+10/04/2023 23:41:37 Restoring files: 30%
+10/04/2023 23:41:37 Restoring files: 31%
+10/04/2023 23:41:37 Restoring files: 32%
+10/04/2023 23:41:37 Restoring files: 33%
+10/04/2023 23:41:37 Restoring files: 34%
+10/04/2023 23:41:37 Restoring files: 35%
+10/04/2023 23:41:38 Restoring files: 36%
+10/04/2023 23:41:38 Restoring files: 37%
+10/04/2023 23:41:38 Restoring files: 38%
+10/04/2023 23:41:38 Restoring files: 39%
+10/04/2023 23:41:38 Restoring files: 40%
+10/04/2023 23:41:38 Restoring files: 41%
+10/04/2023 23:41:39 Restoring files: 42%
+10/04/2023 23:41:39 Restoring files: 43%
+10/04/2023 23:41:39 Restoring files: 44%
+10/04/2023 23:41:39 Restoring files: 45%
+10/04/2023 23:41:39 Restoring files: 46%
+10/04/2023 23:41:40 Restoring files: 47%
+10/04/2023 23:41:40 Restoring files: 48%
+10/04/2023 23:41:40 Restoring files: 49%
+10/04/2023 23:41:40 Restoring files: 50%
+10/04/2023 23:41:40 Restoring files: 51%
+10/04/2023 23:41:40 Restoring files: 52%
+10/04/2023 23:41:41 Restoring files: 53%
+10/04/2023 23:41:41 Restoring files: 54%
+10/04/2023 23:41:41 Restoring files: 55%
+10/04/2023 23:41:41 Restoring files: 56%
+10/04/2023 23:41:41 Restoring files: 57%
+10/04/2023 23:41:41 Restoring files: 58%
+10/04/2023 23:41:42 Restoring files: 59%
+10/04/2023 23:41:42 Restoring files: 60%
+10/04/2023 23:41:42 Restoring files: 61%
+10/04/2023 23:41:42 Restoring files: 62%
+10/04/2023 23:41:43 Restoring files: 63%
+10/04/2023 23:41:43 Restoring files: 64%
+10/04/2023 23:41:43 Restoring files: 65%
+10/04/2023 23:41:43 Restoring files: 66%
+10/04/2023 23:41:43 Restoring files: 67%
+10/04/2023 23:41:44 Restoring files: 68%
+10/04/2023 23:41:44 Restoring files: 69%
+10/04/2023 23:41:44 Restoring files: 70%
+10/04/2023 23:41:44 Restoring files: 71%
+10/04/2023 23:41:44 Restoring files: 72%
+10/04/2023 23:41:45 Restoring files: 73%
+10/04/2023 23:41:45 Restoring files: 74%
+10/04/2023 23:41:45 Restoring files: 75%
+10/04/2023 23:41:45 Restoring files: 76%
+10/04/2023 23:41:45 Restoring files: 77%
+10/04/2023 23:41:45 Restoring files: 78%
+10/04/2023 23:41:46 Restoring files: 79%
+10/04/2023 23:41:46 Restoring files: 80%
+10/04/2023 23:41:46 Restoring files: 81%
+10/04/2023 23:41:46 Restoring files: 82%
+10/04/2023 23:41:47 Restoring files: 83%
+10/04/2023 23:41:47 Restoring files: 84%
+10/04/2023 23:41:47 Restoring files: 85%
+10/04/2023 23:41:47 Restoring files: 86%
+10/04/2023 23:41:47 Restoring files: 87%
+10/04/2023 23:41:48 Restoring files: 88%
+10/04/2023 23:41:48 Restoring files: 89%
+10/04/2023 23:41:48 Restoring files: 90%
+10/04/2023 23:41:49 Restoring files: 91%
+10/04/2023 23:41:49 Restoring files: 92%
+10/04/2023 23:41:49 Restoring files: 93%
+10/04/2023 23:41:50 Restoring files: 94%
+10/04/2023 23:41:50 Restoring files: 95%
+10/04/2023 23:41:51 Restoring files: 96%
+10/04/2023 23:41:51 Restoring files: 97%
+10/04/2023 23:41:51 Restoring files: 98%
+10/04/2023 23:41:52 Restoring files: 99%
+10/04/2023 23:41:52 REFRESH
+10/04/2023 23:41:53 RESUME
+10/04/2023 23:41:53 Restoring files: 99%
+10/04/2023 23:41:53 No database restoration, as wanted
+10/04/2023 23:41:53 Updating settings...
+10/04/2023 23:41:53 ENDFINISH ! Your backup was restored with success !
+12/04/2023 09:25:45 Starting restoration
+12/04/2023 09:25:45 Shop url: https://lamobile.fr/restore.php
+12/04/2023 09:25:45 Database Host server: db5006928919.hosting-data.io
+12/04/2023 09:25:45 Database Port: 
+12/04/2023 09:25:45 Database name: dbs5720266
+12/04/2023 09:25:45 Database User: dbu1994086
+12/04/2023 09:25:45 Duration of intermediate renewal: 25
+12/04/2023 09:25:45 Duration between refresh: 0
+12/04/2023 09:25:45 Duration between progress refresh: 1
+12/04/2023 09:25:45 Cleaning files before restoration...
+12/04/2023 09:26:10 REFRESH
+12/04/2023 09:26:10 RESUME
+12/04/2023 09:26:10 Cleaning files before restoration...
+12/04/2023 09:26:10 Cleaning files before restoration...
+12/04/2023 09:26:35 REFRESH
+12/04/2023 09:26:35 RESUME
+12/04/2023 09:26:35 Cleaning files before restoration...
+12/04/2023 09:26:35 Cleaning files before restoration...
+12/04/2023 09:27:00 REFRESH
+12/04/2023 09:27:01 RESUME
+12/04/2023 09:27:01 Cleaning files before restoration...
+12/04/2023 09:27:01 Cleaning files before restoration...
+12/04/2023 09:27:26 REFRESH
+12/04/2023 09:27:26 RESUME
+12/04/2023 09:27:26 Cleaning files before restoration...
+12/04/2023 09:27:26 Cleaning files before restoration...
+12/04/2023 09:27:51 REFRESH
+12/04/2023 09:27:51 RESUME
+12/04/2023 09:27:51 Cleaning files before restoration...
+12/04/2023 09:27:51 Cleaning files before restoration...
+12/04/2023 09:27:57 REFRESH
+12/04/2023 09:27:58 RESUME
+12/04/2023 09:27:58 Cleaning files before restoration...
+12/04/2023 09:27:58 Restoring backup...
+12/04/2023 09:27:58 Restoring files...
+12/04/2023 09:27:58 Restoring files: 2%
+12/04/2023 09:27:59 Restoring files: 7%
+12/04/2023 09:27:59 Restoring files: 8%
+12/04/2023 09:27:59 Restoring files: 9%
+12/04/2023 09:27:59 Restoring files: 10%
+12/04/2023 09:28:00 Restoring files: 11%
+12/04/2023 09:28:00 Restoring files: 12%
+12/04/2023 09:28:00 Restoring files: 13%
+12/04/2023 09:28:00 Restoring files: 14%
+12/04/2023 09:28:00 Restoring files: 15%
+12/04/2023 09:28:00 Restoring files: 16%
+12/04/2023 09:28:01 Restoring files: 17%
+12/04/2023 09:28:01 Restoring files: 18%
+12/04/2023 09:28:01 Restoring files: 19%
+12/04/2023 09:28:01 Restoring files: 20%
+12/04/2023 09:28:02 Restoring files: 21%
+12/04/2023 09:28:02 Restoring files: 22%
+12/04/2023 09:28:02 Restoring files: 23%
+12/04/2023 09:28:02 Restoring files: 24%
+12/04/2023 09:28:02 Restoring files: 25%
+12/04/2023 09:28:03 Restoring files: 26%
+12/04/2023 09:28:03 Restoring files: 27%
+12/04/2023 09:28:03 Restoring files: 28%
+12/04/2023 09:28:03 Restoring files: 29%
+12/04/2023 09:28:04 Restoring files: 30%
+12/04/2023 09:28:04 Restoring files: 31%
+12/04/2023 09:28:04 Restoring files: 32%
+12/04/2023 09:28:04 Restoring files: 33%
+12/04/2023 09:28:04 Restoring files: 34%
+12/04/2023 09:28:04 Restoring files: 35%
+12/04/2023 09:28:05 Restoring files: 36%
+12/04/2023 09:28:05 Restoring files: 37%
+12/04/2023 09:28:05 Restoring files: 38%
+12/04/2023 09:28:05 Restoring files: 39%
+12/04/2023 09:28:05 Restoring files: 40%
+12/04/2023 09:28:05 Restoring files: 41%
+12/04/2023 09:28:06 Restoring files: 42%
+12/04/2023 09:28:06 Restoring files: 43%
+12/04/2023 09:28:06 Restoring files: 44%
+12/04/2023 09:28:06 Restoring files: 45%
+12/04/2023 09:28:06 Restoring files: 46%
+12/04/2023 09:28:07 Restoring files: 47%
+12/04/2023 09:28:07 Restoring files: 48%
+12/04/2023 09:28:07 Restoring files: 49%
+12/04/2023 09:28:07 Restoring files: 50%
+12/04/2023 09:28:07 Restoring files: 51%
+12/04/2023 09:28:08 Restoring files: 52%
+12/04/2023 09:28:08 Restoring files: 53%
+12/04/2023 09:28:08 Restoring files: 54%
+12/04/2023 09:28:08 Restoring files: 55%
+12/04/2023 09:28:08 Restoring files: 56%
+12/04/2023 09:28:08 Restoring files: 57%
+12/04/2023 09:28:09 Restoring files: 58%
+12/04/2023 09:28:09 Restoring files: 59%
+12/04/2023 09:28:09 Restoring files: 60%
+12/04/2023 09:28:09 Restoring files: 61%
+12/04/2023 09:28:10 Restoring files: 62%
+12/04/2023 09:28:10 Restoring files: 63%
+12/04/2023 09:28:10 Restoring files: 64%
+12/04/2023 09:28:10 Restoring files: 65%
+12/04/2023 09:28:11 Restoring files: 66%
+12/04/2023 09:28:11 Restoring files: 67%
+12/04/2023 09:28:11 Restoring files: 68%
+12/04/2023 09:28:11 Restoring files: 69%
+12/04/2023 09:28:12 Restoring files: 70%
+12/04/2023 09:28:12 Restoring files: 71%
+12/04/2023 09:28:12 Restoring files: 72%
+12/04/2023 09:28:12 Restoring files: 73%
+12/04/2023 09:28:12 Restoring files: 74%
+12/04/2023 09:28:13 Restoring files: 75%
+12/04/2023 09:28:13 Restoring files: 76%
+12/04/2023 09:28:13 Restoring files: 77%
+12/04/2023 09:28:13 Restoring files: 78%
+12/04/2023 09:28:13 Restoring files: 79%
+12/04/2023 09:28:13 Restoring files: 80%
+12/04/2023 09:28:14 Restoring files: 81%
+12/04/2023 09:28:14 Restoring files: 82%
+12/04/2023 09:28:14 Restoring files: 83%
+12/04/2023 09:28:14 Restoring files: 84%
+12/04/2023 09:28:15 Restoring files: 85%
+12/04/2023 09:28:15 Restoring files: 86%
+12/04/2023 09:28:15 Restoring files: 87%
+12/04/2023 09:28:15 Restoring files: 88%
+12/04/2023 09:28:16 Restoring files: 89%
+12/04/2023 09:28:16 Restoring files: 90%
+12/04/2023 09:28:17 Restoring files: 91%
+12/04/2023 09:28:17 Restoring files: 92%
+12/04/2023 09:28:17 Restoring files: 93%
+12/04/2023 09:28:18 Restoring files: 94%
+12/04/2023 09:28:18 Restoring files: 95%
+12/04/2023 09:28:19 Restoring files: 96%
+12/04/2023 09:28:19 Restoring files: 97%
+12/04/2023 09:28:20 Restoring files: 98%
+12/04/2023 09:28:20 Restoring files: 99%
+12/04/2023 09:28:21 REFRESH
+12/04/2023 09:28:21 RESUME
+12/04/2023 09:28:21 Restoring files: 99%
+12/04/2023 09:28:22 No database restoration, as wanted
+12/04/2023 09:28:22 Updating settings...
+12/04/2023 09:28:22 ENDFINISH ! Your backup was restored with success !
